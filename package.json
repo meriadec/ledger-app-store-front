@@ -65,6 +65,7 @@
   },
   "dependencies": {
     "@material-ui/core": "^1.0.0",
+    "lodash": "^4.17.15",
     "material-ui": "^1.0.0-beta.38",
     "material-ui-icons": "^1.0.0-beta.36",
     "node-fetch": "^2.6.0",
